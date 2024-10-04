@@ -3,7 +3,7 @@
   <groupId>com.jsonparser</groupId>
   <artifactId>scala-json-parser</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>scala-json-parser</name>
   <url>http://maven.apache.org</url>
 
@@ -12,7 +12,7 @@
     <developerConnection>scm:git:git@github.com:Mamioma/JsonParser.git
     </developerConnection>
     <url>https://github.com/Mamioma/JsonParser</url>
-    <tag>scala-json-parser-1.0</tag>
+    <tag>platform-sdk-java-${project.version}</tag>
   </scm>
 
   <properties>
