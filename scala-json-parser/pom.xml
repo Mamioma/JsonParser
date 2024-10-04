@@ -8,10 +8,17 @@
   <name>scala-json-parser</name>
   <url>http://maven.apache.org</url>
 
+  <scm>
+    <connection>scm:git:git@github.com:Mamioma/JsonParser.git</connection>
+    <developerConnection>scm:git:git@github.com:Mamioma/JsonParser.git
+    </developerConnection>
+    <url>https://github.com/Mamioma/JsonParser</url>
+    <tag>platform-sdk-java-${project.version}</tag>
+  </scm>
+
   <properties>
     <scala.version.suffix>2.12</scala.version.suffix>
     <fasterxml.jackson.module.version>2.10.1</fasterxml.jackson.module.version>
-<!--    <fasterxml.jackson.version>2.10.1</fasterxml.jackson.version>-->
   </properties>
 
   <dependencies>
